@@ -1,4 +1,3 @@
-[![Udacity - Robotics NanoDegree Program](https://s3-us-west-1.amazonaws.com/udacity-robotics/Extra+Images/RoboND_flag.png)](https://www.udacity.com/robotics)
 
 # Map My World
 This project is about creating a 2D occupancy grid and 3D octomap from a simulated environment using our own robot with the RTAB-Map package.
